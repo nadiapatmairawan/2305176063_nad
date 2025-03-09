@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+    font-family: "roboto" ;
+    margin: 0;
+    padding: 0;
+}
+
+
+.box-green {
+    background-color: rgb(249, 214, 137);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    box-shadow: 5px 5px 2px 1px rgb(217, 131, 36); 
+    text-align: justify;
+}
+
+.box-green img{
+    width: 35%;
+    border-radius: 15px;
+
+}
+
+
+
+.box-yellow {
+    background-color: rgb(245, 231, 178);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px 1px rgb(217, 131, 36); ;
+    text-align: justify;
+}
+
+
+.box-yellow img{
+    border-radius: 15px;
+}
+
+.box-yellow img{
+    border-radius: 15px;
+}
+
+.box-red {
+    background-color: rgb(249, 214, 137);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px 1px rgb(217, 131, 36); ;
+}
+
+
+.box-blue {
+    background-color: rgb(245, 231, 178);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px 1px rgb(217, 131, 36); ;
+}
+
+.box-blue iframe{
+    border-radius: 15px;
+}
+
+.box-pink {
+    background-color: rgb(249, 214, 137);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px 1px rgb(217, 131, 36); ;
+    text-align: justify;
+}
+
+
+.box-orange {
+    background-color: rgb(245, 231, 178);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px 1px rgb(217, 131, 36); ;
+    text-align: justify;
+}
+
+
+.box-orange img{
+    border-radius: 15px;
+}
+
+
+.jumbotron{
+    background-color: rgb(151, 49, 49);
+    padding: 60px;
+    text-align: center;
+    color: white;
+    font-size: 30px;    
+}
+
+
+nav {
+    background-color:rgb(224, 167, 94);
+    padding: 10px;
+}
+
+
+nav ul li {
+    display: inline;
+    margin: 6px;
+    font-weight: bold;
+}
+
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    transition: padding 0.3s ease;
+}
+
+
+nav ul li a:hover {
+    background-color: cadetblue;
+    padding: 0.30em;
+    border-radius: 6px;
+}
